@@ -10,3 +10,5 @@ Langkah2
     6.buat halaman index di index.php
     
 https://github.com/zakaria1290/menampilkan-join-tabel/blob/master/penilaian2.png
+
+![image](https://user-images.githubusercontent.com/60141473/124396364-4d9ae700-dd33-11eb-9d06-98af460325f6.png)
