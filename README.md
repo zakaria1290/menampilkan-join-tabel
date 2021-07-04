@@ -9,4 +9,3 @@ Langkah2
     5.buat koneksi di konkesi.php
     6.buat halaman index di index.php
     
-http://localhost/phpmyadmin/db_designer.php?db=penilaian
