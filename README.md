@@ -8,3 +8,5 @@ Langkah2
     4.buat tabel penjualan detail
     5.buat koneksi di konkesi.php
     6.buat halaman index di index.php
+
+https://github.com/zakaria1290/menampilkan-join-tabel/blob/master/penilaian.sql
