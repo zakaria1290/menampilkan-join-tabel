@@ -10,7 +10,7 @@ Langkah2
     6.buat halaman index di index.php
 **
 Tampilan desain database (CDM / PDM / ERD)**
-
+![image](https://user-images.githubusercontent.com/60141473/124396481-019c7200-dd34-11eb-9d9f-786691c63e10.png)
 
 **TAMPILAN INDEX
 **
